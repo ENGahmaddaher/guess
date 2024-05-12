@@ -14,11 +14,11 @@ const word = [
   "Eminem",
   "Tuppac",
   "G-easy",
-  "Master",
-  "branch",
-  "mainly",
-  "Future",
-  "school",
+  "abusif",
+  "afroto",
+  "ketlar",
+  "twista",
+  "hazene",
 ];
 wordGuess = word[Math.floor(Math.random() * word.length)].toLowerCase();
 let messageArea = document.querySelector(".message");
