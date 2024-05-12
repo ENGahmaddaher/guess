@@ -4,7 +4,7 @@ document.querySelector(
   "footer"
 ).innerHTML = `${gamename} Game Created By Ahmad Daher`;
 document.title = gamename;
-let numbersOfTry = 8;
+let numbersOfTry = 4;
 let numbersOfLetters = 6;
 let currentTry = 1;
 let hints = 2;
