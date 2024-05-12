@@ -11,13 +11,13 @@ let hints = 2;
 //manage words
 let wordGuess = "";
 const word = [
-  "create",
-  "update",
-  "delete",
+  "Eminem",
+  "Tuppac",
+  "G-easy",
   "Master",
   "branch",
   "mainly",
-  "Elzero",
+  "Future",
   "school",
 ];
 wordGuess = word[Math.floor(Math.random() * word.length)].toLowerCase();
